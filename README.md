@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Marks Analyzer
 
 This project analyzes student marks using Python, Pandas, NumPy, and Matplotlib.
@@ -21,3 +22,6 @@ This project analyzes student marks using Python, Pandas, NumPy, and Matplotlib.
    pip install pandas numpy matplotlib
 3. Run:
    python student_marks_analyzer.py
+=======
+# Sales-Dashboard-Project
+>>>>>>> d82e7849428901dc052ecd99b71eff7a9f756f94
